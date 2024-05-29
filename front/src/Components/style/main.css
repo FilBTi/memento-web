@@ -1,0 +1,23 @@
+.container{
+    margin: 0 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main__text{
+    display: flex;
+    padding: 160px 110px 0px 110px;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    flex: 1 0 0;
+    align-self: stretch;
+}
+
+.logo__main{
+    margin: 0 auto;
+}
+
+.main__icon{
+    display: block;
+}
