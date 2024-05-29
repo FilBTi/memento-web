@@ -1,0 +1,13 @@
+.navbar {
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.logo-menu{
+    margin-right: 3%;
+    height: 100px;
+}
+
